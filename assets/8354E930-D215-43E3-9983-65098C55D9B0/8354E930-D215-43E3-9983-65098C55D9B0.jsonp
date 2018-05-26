@@ -692,6 +692,60 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "metáforas",
+            "targetRectangle" : {
+              "y" : 524.187499165535,
+              "x" : 650.3095691204071,
+              "width" : 190,
+              "height" : 48
+            }
+          },
+          {
+            "text" : "tareas",
+            "targetRectangle" : {
+              "y" : 888.562499165535,
+              "x" : 1154.854650974274,
+              "width" : 116.3199999999999,
+              "height" : 48
+            }
+          },
+          {
+            "text" : "modos",
+            "targetRectangle" : {
+              "y" : 217.1865229606628,
+              "x" : 1133.620379924774,
+              "width" : 146.8319999999999,
+              "height" : 55
+            }
+          },
+          {
+            "text" : "Desafíos desde el usuario",
+            "targetRectangle" : {
+              "y" : 62.87498116493225,
+              "x" : 65.24996972084045,
+              "width" : 833.1400000000001,
+              "height" : 84
+            }
+          },
+          {
+            "text" : "Interaction Design Framework, adaptado de Bill Verplank",
+            "targetRectangle" : {
+              "y" : 1020.201537966728,
+              "x" : 27.97203087806702,
+              "width" : 833.4350000000003,
+              "height" : 37
+            }
+          },
+          {
+            "text" : "ideas",
+            "targetRectangle" : {
+              "y" : 524.187499165535,
+              "x" : 234.2427635192871,
+              "width" : 98.68000000000001,
+              "height" : 48
+            }
+          },
+          {
             "text" : "escenarios",
             "targetRectangle" : {
               "y" : 888.562499165535,
@@ -760,60 +814,6 @@ local_slide( {
               "y" : 888.562499165535,
               "x" : 1580.163183450699,
               "width" : 177.2,
-              "height" : 48
-            }
-          },
-          {
-            "text" : "metáforas",
-            "targetRectangle" : {
-              "y" : 524.187499165535,
-              "x" : 650.3095691204071,
-              "width" : 190,
-              "height" : 48
-            }
-          },
-          {
-            "text" : "tareas",
-            "targetRectangle" : {
-              "y" : 888.562499165535,
-              "x" : 1154.854650974274,
-              "width" : 116.3199999999999,
-              "height" : 48
-            }
-          },
-          {
-            "text" : "modos",
-            "targetRectangle" : {
-              "y" : 217.1865229606628,
-              "x" : 1133.620379924774,
-              "width" : 146.8319999999999,
-              "height" : 55
-            }
-          },
-          {
-            "text" : "Desafíos desde el usuario",
-            "targetRectangle" : {
-              "y" : 62.87498116493225,
-              "x" : 65.24996972084045,
-              "width" : 833.1400000000001,
-              "height" : 84
-            }
-          },
-          {
-            "text" : "Interaction Design Framework, adaptado de Bill Verplank",
-            "targetRectangle" : {
-              "y" : 1020.201537966728,
-              "x" : 27.97203087806702,
-              "width" : 833.4350000000003,
-              "height" : 37
-            }
-          },
-          {
-            "text" : "ideas",
-            "targetRectangle" : {
-              "y" : 524.187499165535,
-              "x" : 234.2427635192871,
-              "width" : 98.68000000000001,
               "height" : 48
             }
           }

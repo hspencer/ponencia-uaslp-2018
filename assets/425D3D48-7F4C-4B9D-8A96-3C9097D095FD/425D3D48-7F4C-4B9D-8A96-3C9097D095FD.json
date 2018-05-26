@@ -1,5 +1,19 @@
 {
   "assets" : {
+    "578F13A6349877CE29468B3F57E6A55C" : {
+      "type" : "texture",
+      "index" : 7,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/425D3D48-7F4C-4B9D-8A96-3C9097D095FD.pdf"
+      },
+      "width" : 316,
+      "height" : 39
+    },
     "9B6E692FC4C10C780BAF85F6611BCCE3" : {
       "type" : "texture",
       "index" : 13,
@@ -125,20 +139,6 @@
       },
       "width" : 371,
       "height" : 48
-    },
-    "A2012E9D8AF813E4DDF2BC3008159014" : {
-      "type" : "texture",
-      "index" : 7,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/425D3D48-7F4C-4B9D-8A96-3C9097D095FD.pdf"
-      },
-      "width" : 316,
-      "height" : 39
     },
     "5BA6DF7ACEF516F7DAB78587CF30CE20" : {
       "type" : "texture",
@@ -480,15 +480,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "coinvestigadores",
-          "targetRectangle" : {
-            "y" : 433.418731212616,
-            "x" : 1094.320731878281,
-            "width" : 370.162,
-            "height" : 55
-          }
-        },
-        {
           "text" : "codiseñadores",
           "targetRectangle" : {
             "y" : 333.3809199333191,
@@ -531,6 +522,15 @@
             "x" : 65.24996972084045,
             "width" : 847.42,
             "height" : 84
+          }
+        },
+        {
+          "text" : "coinvestigadores",
+          "targetRectangle" : {
+            "y" : 433.418731212616,
+            "x" : 1094.320731878281,
+            "width" : 370.162,
+            "height" : 55
           }
         }
       ],
@@ -2068,7 +2068,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "A2012E9D8AF813E4DDF2BC3008159014"
+                    "texture" : "578F13A6349877CE29468B3F57E6A55C"
                   }
                 ]
               }

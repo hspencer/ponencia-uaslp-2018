@@ -28,9 +28,9 @@
       "width" : 1720,
       "height" : 767
     },
-    "1E48EA5218CB0ECDDF9B6C2662231214" : {
+    "1ED57945360712753C3CCD474B6BB7FC" : {
       "type" : "texture",
-      "index" : 3,
+      "index" : 5,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -39,8 +39,8 @@
       "url" : {
         "native" : "assets\/9568C1F0-5EB7-4630-A5CB-2E1C9D6F228C.pdf"
       },
-      "width" : 1067,
-      "height" : 34
+      "width" : 1920,
+      "height" : 1080
     },
     "D31D383FB1A89A29D8D6B1541704347B" : {
       "type" : "texture",
@@ -56,20 +56,6 @@
       "width" : 924,
       "height" : 69
     },
-    "6DB386DBA79D24A1EDC596588037241C" : {
-      "type" : "texture",
-      "index" : 5,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/9568C1F0-5EB7-4630-A5CB-2E1C9D6F228C.pdf"
-      },
-      "width" : 1920,
-      "height" : 1080
-    },
     "6D1ADFF8C922B636743A2621FF4A8178" : {
       "type" : "texture",
       "index" : 4,
@@ -83,6 +69,20 @@
       },
       "width" : 1920,
       "height" : 1080
+    },
+    "1E48EA5218CB0ECDDF9B6C2662231214" : {
+      "type" : "texture",
+      "index" : 3,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/9568C1F0-5EB7-4630-A5CB-2E1C9D6F228C.pdf"
+      },
+      "width" : 1067,
+      "height" : 34
     }
   },
   "events" : [
@@ -347,7 +347,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "6DB386DBA79D24A1EDC596588037241C"
+                    "texture" : "1ED57945360712753C3CCD474B6BB7FC"
                   }
                 ]
               }
@@ -368,21 +368,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "Origen (Lynn Shostack, 1984)",
-          "targetRectangle" : {
-            "y" : 115.625,
-            "x" : 67.625,
-            "width" : 929.88,
-            "height" : 84
-          }
-        },
-        {
           "text" : "800px-Blueprint_luxury_hotel.jpg",
           "targetRectangle" : {
             "y" : 207.0631561279297,
             "x" : 101.3170776367188,
             "width" : 1717.365844726562,
             "height" : 764.227783203125
+          }
+        },
+        {
+          "text" : "Origen (Lynn Shostack, 1984)",
+          "targetRectangle" : {
+            "y" : 115.625,
+            "x" : 67.625,
+            "width" : 929.88,
+            "height" : 84
           }
         },
         {

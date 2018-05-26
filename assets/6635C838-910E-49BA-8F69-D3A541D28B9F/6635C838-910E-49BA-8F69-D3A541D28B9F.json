@@ -98,20 +98,6 @@
       "width" : 357,
       "height" : 57
     },
-    "5AC41532372EEB7AE1AA0A518EC4A55C" : {
-      "type" : "texture",
-      "index" : 6,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/6635C838-910E-49BA-8F69-D3A541D28B9F.pdf"
-      },
-      "width" : 323,
-      "height" : 39
-    },
     "ACCCD34CFC9DBC529CE45EC876829C89" : {
       "type" : "texture",
       "index" : 21,
@@ -126,9 +112,9 @@
       "width" : 1920,
       "height" : 1080
     },
-    "E32FCCF61B6F240E65EBD99BAB52CA38" : {
+    "5AC41532372EEB7AE1AA0A518EC4A55C" : {
       "type" : "texture",
-      "index" : 5,
+      "index" : 6,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -137,8 +123,8 @@
       "url" : {
         "native" : "assets\/6635C838-910E-49BA-8F69-D3A541D28B9F.pdf"
       },
-      "width" : 355,
-      "height" : 354
+      "width" : 323,
+      "height" : 39
     },
     "10AEF00779FBCA936033698608D7CF87" : {
       "type" : "texture",
@@ -237,6 +223,20 @@
       },
       "width" : 71,
       "height" : 72
+    },
+    "A39B529F41CE55ABCAB6763956AC7CB2" : {
+      "type" : "texture",
+      "index" : 5,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/6635C838-910E-49BA-8F69-D3A541D28B9F.pdf"
+      },
+      "width" : 355,
+      "height" : 354
     },
     "28EFC41B54F0F323C926FB95941526FB" : {
       "type" : "texture",
@@ -606,6 +606,15 @@
       ],
       "accessibility" : [
         {
+          "text" : "2X",
+          "targetRectangle" : {
+            "y" : 507.8205871582031,
+            "x" : 1569.178331910746,
+            "width" : 78.6579999999999,
+            "height" : 81
+          }
+        },
+        {
           "text" : "secuencialidad",
           "targetRectangle" : {
             "y" : 759.6558833122253,
@@ -633,15 +642,6 @@
           }
         },
         {
-          "text" : "densidad baja",
-          "targetRectangle" : {
-            "y" : 759.6558833122253,
-            "x" : 1457.216130495071,
-            "width" : 302.588,
-            "height" : 55
-          }
-        },
-        {
           "text" : "Resultados",
           "targetRectangle" : {
             "y" : 62.87498116493225,
@@ -651,12 +651,12 @@
           }
         },
         {
-          "text" : "2X",
+          "text" : "densidad baja",
           "targetRectangle" : {
-            "y" : 507.8205871582031,
-            "x" : 1569.178331910746,
-            "width" : 78.6579999999999,
-            "height" : 81
+            "y" : 759.6558833122253,
+            "x" : 1457.216130495071,
+            "width" : 302.588,
+            "height" : 55
           }
         }
       ],
@@ -2198,7 +2198,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "E32FCCF61B6F240E65EBD99BAB52CA38"
+                    "texture" : "A39B529F41CE55ABCAB6763956AC7CB2"
                   }
                 ]
               }

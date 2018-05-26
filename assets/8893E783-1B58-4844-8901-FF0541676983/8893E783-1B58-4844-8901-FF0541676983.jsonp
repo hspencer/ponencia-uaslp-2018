@@ -664,24 +664,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "descubrir",
-            "targetRectangle" : {
-              "y" : 944.9291377067566,
-              "x" : 286.3731758594513,
-              "width" : 205.114,
-              "height" : 55
-            }
-          },
-          {
-            "text" : "desarrollar",
-            "targetRectangle" : {
-              "y" : 944.9291377067566,
-              "x" : 1030.27589058876,
-              "width" : 231.9780000000001,
-              "height" : 55
-            }
-          },
-          {
             "text" : "imágenes",
             "targetRectangle" : {
               "y" : 483.8532733917236,
@@ -700,15 +682,6 @@ local_slide( {
             }
           },
           {
-            "text" : "definir",
-            "targetRectangle" : {
-              "y" : 944.9291377067566,
-              "x" : 700.5907022953033,
-              "width" : 141.0360000000001,
-              "height" : 55
-            }
-          },
-          {
             "text" : "Modelo del Doble Diamante, Banathy, 1978",
             "targetRectangle" : {
               "y" : 1032.108887434006,
@@ -718,11 +691,11 @@ local_slide( {
             }
           },
           {
-            "text" : "disponibilizar",
+            "text" : "desarrollar",
             "targetRectangle" : {
               "y" : 944.9291377067566,
-              "x" : 1376.958021402359,
-              "width" : 288.9259999999999,
+              "x" : 1030.27589058876,
+              "width" : 231.9780000000001,
               "height" : 55
             }
           },
@@ -741,6 +714,33 @@ local_slide( {
               "y" : 538.8532733917236,
               "x" : 1174.868234872818,
               "width" : 267.306,
+              "height" : 55
+            }
+          },
+          {
+            "text" : "descubrir",
+            "targetRectangle" : {
+              "y" : 944.9291377067566,
+              "x" : 286.3731758594513,
+              "width" : 205.114,
+              "height" : 55
+            }
+          },
+          {
+            "text" : "disponibilizar",
+            "targetRectangle" : {
+              "y" : 944.9291377067566,
+              "x" : 1376.958021402359,
+              "width" : 288.9259999999999,
+              "height" : 55
+            }
+          },
+          {
+            "text" : "definir",
+            "targetRectangle" : {
+              "y" : 944.9291377067566,
+              "x" : 700.5907022953033,
+              "width" : 141.0360000000001,
               "height" : 55
             }
           }

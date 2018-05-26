@@ -426,6 +426,33 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Innovación\\u2028Validación\\u2028Accesibilidad cognitiva",
+            "targetRectangle" : {
+              "y" : 848.9013655185699,
+              "x" : 717.1270077228546,
+              "width" : 503.7460000000001,
+              "height" : 165
+            }
+          },
+          {
+            "text" : "personas",
+            "targetRectangle" : {
+              "y" : 589.0000618696213,
+              "x" : 853.6830012798309,
+              "width" : 230.634,
+              "height" : 64
+            }
+          },
+          {
+            "text" : "Identificar necesidades\\u2028Grupo asesor\\u2028Participación",
+            "targetRectangle" : {
+              "y" : 228.0986921787262,
+              "x" : 717.011994600296,
+              "width" : 510.9760000000001,
+              "height" : 165
+            }
+          },
+          {
             "text" : "investigación",
             "targetRectangle" : {
               "y" : 566.0000629425049,
@@ -459,33 +486,6 @@ local_slide( {
               "x" : 65.24996972084045,
               "width" : 805.4200000000002,
               "height" : 84
-            }
-          },
-          {
-            "text" : "Innovación\\u2028Validación\\u2028Accesibilidad cognitiva",
-            "targetRectangle" : {
-              "y" : 848.9013655185699,
-              "x" : 717.1270077228546,
-              "width" : 503.7460000000001,
-              "height" : 165
-            }
-          },
-          {
-            "text" : "Identificar necesidades\\u2028Grupo asesor\\u2028Participación",
-            "targetRectangle" : {
-              "y" : 228.0986921787262,
-              "x" : 717.011994600296,
-              "width" : 510.9760000000001,
-              "height" : 165
-            }
-          },
-          {
-            "text" : "personas",
-            "targetRectangle" : {
-              "y" : 589.0000618696213,
-              "x" : 853.6830012798309,
-              "width" : 230.634,
-              "height" : 64
             }
           }
         ],

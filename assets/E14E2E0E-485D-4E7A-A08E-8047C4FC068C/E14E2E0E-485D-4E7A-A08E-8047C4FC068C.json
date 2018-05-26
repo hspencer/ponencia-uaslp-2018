@@ -354,15 +354,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "¿Hipótesis de PiX?",
-          "targetRectangle" : {
-            "y" : 57.08477973937988,
-            "x" : 64.61994934082031,
-            "width" : 714.504,
-            "height" : 101
-          }
-        },
-        {
           "text" : "Vivimos en una economía basada en la experiencia, más que en la transacción de commodities y bienes \\u2028(Pine, Gilmore; 1998)",
           "targetRectangle" : {
             "y" : 201.0506896972656,
@@ -423,6 +414,15 @@
             "x" : 93.76916480064392,
             "width" : 1402.104,
             "height" : 89.75
+          }
+        },
+        {
+          "text" : "¿Hipótesis de PiX?",
+          "targetRectangle" : {
+            "y" : 57.08477973937988,
+            "x" : 64.61994934082031,
+            "width" : 714.504,
+            "height" : 101
           }
         }
       ],

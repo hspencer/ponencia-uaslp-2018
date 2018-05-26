@@ -30,20 +30,6 @@ local_slide( {
         "width" : 1920,
         "height" : 1080
       },
-      "B3DEA247F078DC8CF93EF340AA22C450" : {
-        "type" : "texture",
-        "index" : 2,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/525923DE-13BF-4005-8B9C-3F6DCD34BFBD.pdf"
-        },
-        "width" : 355,
-        "height" : 354
-      },
       "6A7505219E7980FBED23D8A1E129A95B" : {
         "type" : "texture",
         "index" : 5,
@@ -71,6 +57,20 @@ local_slide( {
         },
         "width" : 1920,
         "height" : 1080
+      },
+      "5F243CDBDE73C6CF90028510A37EC2C8" : {
+        "type" : "texture",
+        "index" : 2,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/525923DE-13BF-4005-8B9C-3F6DCD34BFBD.pdf"
+        },
+        "width" : 355,
+        "height" : 354
       },
       "93CDECB2ABA8D2BEE20224127C2CAE83" : {
         "type" : "texture",
@@ -468,21 +468,12 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "consistencia y \\u2028simpleza",
+            "text" : "pasted-image.pdf",
             "targetRectangle" : {
-              "y" : 732.1558856964111,
-              "x" : 806.3829953098298,
-              "width" : 327.114,
-              "height" : 110
-            }
-          },
-          {
-            "text" : "Resultados",
-            "targetRectangle" : {
-              "y" : 62.87498116493225,
-              "x" : 65.24996972084045,
-              "width" : 360.5700000000001,
-              "height" : 84
+              "y" : 487.9726257324219,
+              "x" : 916.4266357421875,
+              "width" : 87.14676666259766,
+              "height" : 88.06410217285156
             }
           },
           {
@@ -491,6 +482,15 @@ local_slide( {
               "y" : 732.1558856964111,
               "x" : 221.6816318035126,
               "width" : 306.2220000000001,
+              "height" : 110
+            }
+          },
+          {
+            "text" : "consistencia y \\u2028simpleza",
+            "targetRectangle" : {
+              "y" : 732.1558856964111,
+              "x" : 806.3829953098298,
+              "width" : 327.114,
               "height" : 110
             }
           },
@@ -506,15 +506,6 @@ local_slide( {
           {
             "text" : "pasted-image.pdf",
             "targetRectangle" : {
-              "y" : 460.1877136230469,
-              "x" : 1491.612548828125,
-              "width" : 107.189582824707,
-              "height" : 159.6245880126953
-            }
-          },
-          {
-            "text" : "pasted-image.pdf",
-            "targetRectangle" : {
               "y" : 464.5046691894531,
               "x" : 312.9352111816406,
               "width" : 123.7148590087891,
@@ -524,10 +515,19 @@ local_slide( {
           {
             "text" : "pasted-image.pdf",
             "targetRectangle" : {
-              "y" : 487.9726257324219,
-              "x" : 916.4266357421875,
-              "width" : 87.14676666259766,
-              "height" : 88.06410217285156
+              "y" : 460.1877136230469,
+              "x" : 1491.612548828125,
+              "width" : 107.189582824707,
+              "height" : 159.6245880126953
+            }
+          },
+          {
+            "text" : "Resultados",
+            "targetRectangle" : {
+              "y" : 62.87498116493225,
+              "x" : 65.24996972084045,
+              "width" : 360.5700000000001,
+              "height" : 84
             }
           }
         ],
@@ -1229,7 +1229,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "B3DEA247F078DC8CF93EF340AA22C450"
+                      "texture" : "5F243CDBDE73C6CF90028510A37EC2C8"
                     }
                   ]
                 }

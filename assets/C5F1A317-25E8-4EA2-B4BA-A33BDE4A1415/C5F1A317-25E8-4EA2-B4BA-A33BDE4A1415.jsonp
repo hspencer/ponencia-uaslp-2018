@@ -2,9 +2,9 @@ local_slide( {
   "name" : "C5F1A317-25E8-4EA2-B4BA-A33BDE4A1415",
   "json" : {
     "assets" : {
-      "A29D0F0B5980EE7A89A25F78794BD37C" : {
+      "C25C25FF361FB24FC35F6B120D2F252D" : {
         "type" : "texture",
-        "index" : 2,
+        "index" : 0,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -13,8 +13,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/C5F1A317-25E8-4EA2-B4BA-A33BDE4A1415.pdf"
         },
-        "width" : 1832,
-        "height" : 615
+        "width" : 1920,
+        "height" : 1080
       },
       "51BDADC64E738321D12FAD8E80B0506D" : {
         "type" : "texture",
@@ -30,20 +30,6 @@ local_slide( {
         "width" : 1751,
         "height" : 71
       },
-      "9B246E65F21EB275FDDC95EB124802B7" : {
-        "type" : "texture",
-        "index" : 3,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/C5F1A317-25E8-4EA2-B4BA-A33BDE4A1415.pdf"
-        },
-        "width" : 1920,
-        "height" : 1080
-      },
       "6D1ADFF8C922B636743A2621FF4A8178" : {
         "type" : "texture",
         "index" : 4,
@@ -58,9 +44,23 @@ local_slide( {
         "width" : 1920,
         "height" : 1080
       },
-      "C25C25FF361FB24FC35F6B120D2F252D" : {
+      "1ED57945360712753C3CCD474B6BB7FC" : {
         "type" : "texture",
-        "index" : 0,
+        "index" : 2,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/C5F1A317-25E8-4EA2-B4BA-A33BDE4A1415.pdf"
+        },
+        "width" : 1832,
+        "height" : 615
+      },
+      "9B246E65F21EB275FDDC95EB124802B7" : {
+        "type" : "texture",
+        "index" : 3,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -356,21 +356,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Origen (Partituras de Interacción. Spencer, Exss, 2008)",
-            "targetRectangle" : {
-              "y" : 73.625,
-              "x" : 67.625,
-              "width" : 1751.26,
-              "height" : 84
-            }
-          },
-          {
             "text" : "02.jpg",
             "targetRectangle" : {
               "y" : 309.8129577636719,
               "x" : 45.22093963623047,
               "width" : 1829.542726402302,
               "height" : 612.15625
+            }
+          },
+          {
+            "text" : "Origen (Partituras de Interacción. Spencer, Exss, 2008)",
+            "targetRectangle" : {
+              "y" : 73.625,
+              "x" : 67.625,
+              "width" : 1751.26,
+              "height" : 84
             }
           }
         ],
@@ -973,7 +973,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "A29D0F0B5980EE7A89A25F78794BD37C"
+                      "texture" : "1ED57945360712753C3CCD474B6BB7FC"
                     }
                   ]
                 }

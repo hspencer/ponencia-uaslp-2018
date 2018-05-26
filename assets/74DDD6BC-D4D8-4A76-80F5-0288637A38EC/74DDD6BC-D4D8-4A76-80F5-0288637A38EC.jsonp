@@ -18,7 +18,7 @@ local_slide( {
       },
       "300E6EAD4554499431D2F2088CEB3FAC" : {
         "type" : "texture",
-        "index" : 17,
+        "index" : 18,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -86,9 +86,9 @@ local_slide( {
         "width" : 52,
         "height" : 51
       },
-      "E78F412C981E8DF356B0E52A9F3C58A6" : {
+      "77C4C1507D82B9F2176E42605E7B606A" : {
         "type" : "texture",
-        "index" : 15,
+        "index" : 0,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -97,8 +97,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/74DDD6BC-D4D8-4A76-80F5-0288637A38EC.pdf"
         },
-        "width" : 95,
-        "height" : 88
+        "width" : 1920,
+        "height" : 1080
       },
       "A21CCBCC1C5017D2A5C096A2D752AC39" : {
         "type" : "texture",
@@ -114,20 +114,6 @@ local_slide( {
         "width" : 51,
         "height" : 51
       },
-      "B822618B63F7D113407E4753B0801721" : {
-        "type" : "texture",
-        "index" : 1,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/74DDD6BC-D4D8-4A76-80F5-0288637A38EC.pdf"
-        },
-        "width" : 1050,
-        "height" : 72
-      },
       "0ECECD41EE4B824F39708F2AEE72D25C" : {
         "type" : "texture",
         "index" : 7,
@@ -141,6 +127,20 @@ local_slide( {
         },
         "width" : 70,
         "height" : 74
+      },
+      "B822618B63F7D113407E4753B0801721" : {
+        "type" : "texture",
+        "index" : 1,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/74DDD6BC-D4D8-4A76-80F5-0288637A38EC.pdf"
+        },
+        "width" : 1050,
+        "height" : 72
       },
       "469E099EE231AFA16A745AF6E890A9FC" : {
         "type" : "texture",
@@ -198,9 +198,23 @@ local_slide( {
         "width" : 138,
         "height" : 177
       },
+      "E78F412C981E8DF356B0E52A9F3C58A6" : {
+        "type" : "texture",
+        "index" : 15,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/74DDD6BC-D4D8-4A76-80F5-0288637A38EC.pdf"
+        },
+        "width" : 95,
+        "height" : 88
+      },
       "95B5A6F843A13E44F0849DAF8FDB276F" : {
         "type" : "texture",
-        "index" : 16,
+        "index" : 17,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -228,7 +242,7 @@ local_slide( {
       },
       "48EDDB8DB8240CB54D52632B8615B9C5" : {
         "type" : "texture",
-        "index" : 0,
+        "index" : 16,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -502,10 +516,19 @@ local_slide( {
           {
             "text" : "pasted-image.pdf",
             "targetRectangle" : {
-              "y" : 689.0623168945312,
-              "x" : 656.6776733398438,
+              "y" : 434.2655029296875,
+              "x" : 468.4890747070312,
+              "width" : 91.90625,
+              "height" : 66.72708318821242
+            }
+          },
+          {
+            "text" : "pasted-image.pdf",
+            "targetRectangle" : {
+              "y" : 667.5240478515625,
+              "x" : 1058.630126953125,
               "width" : 214.875,
-              "height" : 156.0010726245091
+              "height" : 199.0766143798828
             }
           },
           {
@@ -520,10 +543,10 @@ local_slide( {
           {
             "text" : "pasted-image.pdf",
             "targetRectangle" : {
-              "y" : 434.2655029296875,
-              "x" : 468.4890747070312,
-              "width" : 91.90625,
-              "height" : 66.72708318821242
+              "y" : 689.0623168945312,
+              "x" : 656.6776733398438,
+              "width" : 214.875,
+              "height" : 156.0010726245091
             }
           },
           {
@@ -533,15 +556,6 @@ local_slide( {
               "x" : 745.7250366210938,
               "width" : 91.90625,
               "height" : 85.14897155761719
-            }
-          },
-          {
-            "text" : "pasted-image.pdf",
-            "targetRectangle" : {
-              "y" : 667.5240478515625,
-              "x" : 1058.630126953125,
-              "width" : 214.875,
-              "height" : 199.0766143798828
             }
           }
         ],
@@ -775,7 +789,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "48EDDB8DB8240CB54D52632B8615B9C5"
+                      "texture" : "77C4C1507D82B9F2176E42605E7B606A"
                     }
                   ]
                 }
@@ -4358,10 +4372,19 @@ local_slide( {
           {
             "text" : "pasted-image.pdf",
             "targetRectangle" : {
-              "y" : 689.0623168945312,
-              "x" : 656.6776733398438,
+              "y" : 434.2655029296875,
+              "x" : 468.4890747070312,
+              "width" : 91.90625,
+              "height" : 66.72708318821242
+            }
+          },
+          {
+            "text" : "pasted-image.pdf",
+            "targetRectangle" : {
+              "y" : 667.5240478515625,
+              "x" : 1058.630126953125,
               "width" : 214.875,
-              "height" : 156.0010726245091
+              "height" : 199.0766143798828
             }
           },
           {
@@ -4376,10 +4399,10 @@ local_slide( {
           {
             "text" : "pasted-image.pdf",
             "targetRectangle" : {
-              "y" : 434.2655029296875,
-              "x" : 468.4890747070312,
-              "width" : 91.90625,
-              "height" : 66.72708318821242
+              "y" : 689.0623168945312,
+              "x" : 656.6776733398438,
+              "width" : 214.875,
+              "height" : 156.0010726245091
             }
           },
           {
@@ -4389,15 +4412,6 @@ local_slide( {
               "x" : 745.7250366210938,
               "width" : 91.90625,
               "height" : 85.14897155761719
-            }
-          },
-          {
-            "text" : "pasted-image.pdf",
-            "targetRectangle" : {
-              "y" : 667.5240478515625,
-              "x" : 1058.630126953125,
-              "width" : 214.875,
-              "height" : 199.0766143798828
             }
           }
         ],

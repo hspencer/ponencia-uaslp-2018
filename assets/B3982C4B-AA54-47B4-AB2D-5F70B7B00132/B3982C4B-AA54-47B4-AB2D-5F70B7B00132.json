@@ -28,20 +28,6 @@
       "width" : 1920,
       "height" : 1080
     },
-    "5A320A446143012BF0732814C32AC0AA" : {
-      "type" : "texture",
-      "index" : 2,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/B3982C4B-AA54-47B4-AB2D-5F70B7B00132.pdf"
-      },
-      "width" : 487,
-      "height" : 147
-    },
     "1DA85E244096DB7DD2B7809AC228CBA4" : {
       "type" : "texture",
       "index" : 1,
@@ -56,7 +42,21 @@
       "width" : 1395,
       "height" : 1016
     },
-    "813E687B1520937EDA2B2D82737AC756" : {
+    "85A44D5E53D58FEB5774430D050CEE8F" : {
+      "type" : "texture",
+      "index" : 2,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/B3982C4B-AA54-47B4-AB2D-5F70B7B00132.pdf"
+      },
+      "width" : 487,
+      "height" : 147
+    },
+    "D275487AE9E43EA82F845DD110611E88" : {
       "type" : "texture",
       "index" : 4,
       "assetRequest" : {
@@ -333,7 +333,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "813E687B1520937EDA2B2D82737AC756"
+                    "texture" : "D275487AE9E43EA82F845DD110611E88"
                   }
                 ]
               }
@@ -354,21 +354,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "Modelo de articulación disciplinar y de transferencia",
-          "targetRectangle" : {
-            "y" : 875.1483003091807,
-            "x" : 1401.514283208847,
-            "width" : 499.1399999999999,
-            "height" : 162
-          }
-        },
-        {
           "text" : "pasted-image.pdf",
           "targetRectangle" : {
             "y" : 33.12747192382812,
             "x" : 323.0665283203125,
             "width" : 1392.279052734375,
             "height" : 1013.745056152344
+          }
+        },
+        {
+          "text" : "Modelo de articulación disciplinar y de transferencia",
+          "targetRectangle" : {
+            "y" : 875.1483182907104,
+            "x" : 1401.514321050644,
+            "width" : 499.1399999999999,
+            "height" : 162
           }
         }
       ],
@@ -862,8 +862,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 1633.840782470703,
-                    "pointY" : 945.6483000707622
+                    "pointX" : 1633.8408203125,
+                    "pointY" : 945.6483180522919
                   },
                   "width" : 487,
                   "sublayerTransform" : [
@@ -910,7 +910,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.155204081632653,
-                      "textBaseline" : 0.98304954285524,
+                      "textBaseline" : 0.9830496651785714,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -934,8 +934,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 256.1592175292972,
-                        "pointY" : 85.35169992923784
+                        "pointX" : 256.1591796875,
+                        "pointY" : 85.35168194770813
                       },
                       "width" : 487,
                       "sublayerTransform" : [
@@ -971,7 +971,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "5A320A446143012BF0732814C32AC0AA"
+                    "texture" : "85A44D5E53D58FEB5774430D050CEE8F"
                   }
                 ]
               }

@@ -2,6 +2,20 @@ local_slide( {
   "name" : "5285E2AE-0906-4A16-BECD-B456032E8C08",
   "json" : {
     "assets" : {
+      "C25C25FF361FB24FC35F6B120D2F252D" : {
+        "type" : "texture",
+        "index" : 0,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/5285E2AE-0906-4A16-BECD-B456032E8C08.pdf"
+        },
+        "width" : 1920,
+        "height" : 1080
+      },
       "893B04A2D993E23861A924AF57FB06D9" : {
         "type" : "texture",
         "index" : 4,
@@ -15,20 +29,6 @@ local_slide( {
         },
         "width" : 1920,
         "height" : 1080
-      },
-      "D7300326220D7A1006FC2764CBE3B0B3" : {
-        "type" : "texture",
-        "index" : 1,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/5285E2AE-0906-4A16-BECD-B456032E8C08.pdf"
-        },
-        "width" : 1923,
-        "height" : 1085
       },
       "4DE9CA6B77E26E18D33439D4A19BA4AF" : {
         "type" : "texture",
@@ -46,7 +46,7 @@ local_slide( {
       },
       "43864B75C53D6163888A6391B6C2012B" : {
         "type" : "texture",
-        "index" : 0,
+        "index" : 1,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -55,8 +55,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/5285E2AE-0906-4A16-BECD-B456032E8C08.pdf"
         },
-        "width" : 1920,
-        "height" : 1080
+        "width" : 1923,
+        "height" : 1085
       },
       "A0A1C48A3DF70B54410205B6B4EA3421" : {
         "type" : "texture",
@@ -596,7 +596,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "43864B75C53D6163888A6391B6C2012B"
+                      "texture" : "C25C25FF361FB24FC35F6B120D2F252D"
                     }
                   ]
                 }
@@ -777,7 +777,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "D7300326220D7A1006FC2764CBE3B0B3"
+                      "texture" : "43864B75C53D6163888A6391B6C2012B"
                     }
                   ]
                 }

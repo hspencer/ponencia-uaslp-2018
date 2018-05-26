@@ -70,7 +70,7 @@
       "width" : 1920,
       "height" : 1080
     },
-    "813E687B1520937EDA2B2D82737AC756" : {
+    "D275487AE9E43EA82F845DD110611E88" : {
       "type" : "texture",
       "index" : 8,
       "assetRequest" : {
@@ -614,6 +614,15 @@
       ],
       "accessibility" : [
         {
+          "text" : "actuar",
+          "targetRectangle" : {
+            "y" : 675.2994068861008,
+            "x" : 1556.791815280914,
+            "width" : 151.3,
+            "height" : 60
+          }
+        },
+        {
           "text" : "Espacio del problema:",
           "targetRectangle" : {
             "y" : 805.8559582233429,
@@ -632,15 +641,6 @@
           }
         },
         {
-          "text" : "percibir",
-          "targetRectangle" : {
-            "y" : 189.6719959974289,
-            "x" : 1175.805250406265,
-            "width" : 184.1500000000001,
-            "height" : 60
-          }
-        },
-        {
           "text" : "saber",
           "targetRectangle" : {
             "y" : 345.4094074964523,
@@ -650,11 +650,11 @@
           }
         },
         {
-          "text" : "actuar",
+          "text" : "percibir",
           "targetRectangle" : {
-            "y" : 675.2994068861008,
-            "x" : 1556.791815280914,
-            "width" : 151.3,
+            "y" : 189.6719959974289,
+            "x" : 1175.805250406265,
+            "width" : 184.1500000000001,
             "height" : 60
           }
         }
@@ -2415,6 +2415,15 @@
       ],
       "accessibility" : [
         {
+          "text" : "actuar",
+          "targetRectangle" : {
+            "y" : 675.2994068861008,
+            "x" : 1556.791815280914,
+            "width" : 151.3,
+            "height" : 60
+          }
+        },
+        {
           "text" : "Espacio del problema:",
           "targetRectangle" : {
             "y" : 805.8559582233429,
@@ -2433,15 +2442,6 @@
           }
         },
         {
-          "text" : "percibir",
-          "targetRectangle" : {
-            "y" : 189.6719959974289,
-            "x" : 1175.805250406265,
-            "width" : 184.1500000000001,
-            "height" : 60
-          }
-        },
-        {
           "text" : "saber",
           "targetRectangle" : {
             "y" : 345.4094074964523,
@@ -2451,11 +2451,11 @@
           }
         },
         {
-          "text" : "actuar",
+          "text" : "percibir",
           "targetRectangle" : {
-            "y" : 675.2994068861008,
-            "x" : 1556.791815280914,
-            "width" : 151.3,
+            "y" : 189.6719959974289,
+            "x" : 1175.805250406265,
+            "width" : 184.1500000000001,
             "height" : 60
           }
         }
@@ -4155,7 +4155,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "813E687B1520937EDA2B2D82737AC756"
+                    "texture" : "D275487AE9E43EA82F845DD110611E88"
                   },
                   {
                     "animations" : [
@@ -4257,6 +4257,15 @@
       ],
       "accessibility" : [
         {
+          "text" : "actuar",
+          "targetRectangle" : {
+            "y" : 675.2994068861008,
+            "x" : 1556.791815280914,
+            "width" : 151.3,
+            "height" : 60
+          }
+        },
+        {
           "text" : "Espacio del problema:",
           "targetRectangle" : {
             "y" : 805.8559582233429,
@@ -4275,15 +4284,6 @@
           }
         },
         {
-          "text" : "percibir",
-          "targetRectangle" : {
-            "y" : 189.6719959974289,
-            "x" : 1175.805250406265,
-            "width" : 184.1500000000001,
-            "height" : 60
-          }
-        },
-        {
           "text" : "saber",
           "targetRectangle" : {
             "y" : 345.4094074964523,
@@ -4293,11 +4293,11 @@
           }
         },
         {
-          "text" : "actuar",
+          "text" : "percibir",
           "targetRectangle" : {
-            "y" : 675.2994068861008,
-            "x" : 1556.791815280914,
-            "width" : 151.3,
+            "y" : 189.6719959974289,
+            "x" : 1175.805250406265,
+            "width" : 184.1500000000001,
             "height" : 60
           }
         }

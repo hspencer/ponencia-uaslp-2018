@@ -28,6 +28,20 @@
       "width" : 170,
       "height" : 83
     },
+    "6873298E406ABA2AFABE5B40307273F9" : {
+      "type" : "texture",
+      "index" : 3,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/70C33F84-63C3-4E47-AEDE-F558EDB68A3E.pdf"
+      },
+      "width" : 262,
+      "height" : 76
+    },
     "61A44D9C4958C0BF08181B455879137B" : {
       "type" : "texture",
       "index" : 0,
@@ -55,20 +69,6 @@
       },
       "width" : 279,
       "height" : 32
-    },
-    "BB760E71C325F1B9901B2B650D9F4343" : {
-      "type" : "texture",
-      "index" : 9,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/70C33F84-63C3-4E47-AEDE-F558EDB68A3E.pdf"
-      },
-      "width" : 404,
-      "height" : 40
     },
     "1C31A36A107040D860D1EC68228A2846" : {
       "type" : "texture",
@@ -112,9 +112,9 @@
       "width" : 163,
       "height" : 85
     },
-    "29EF0CDE3505842434F84F7D9699CF28" : {
+    "62A14F93B5BACB35CE39D8A1C37BFDCB" : {
       "type" : "texture",
-      "index" : 5,
+      "index" : 2,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -123,8 +123,8 @@
       "url" : {
         "native" : "assets\/70C33F84-63C3-4E47-AEDE-F558EDB68A3E.pdf"
       },
-      "width" : 277,
-      "height" : 84
+      "width" : 406,
+      "height" : 14
     },
     "A2936C4080114CE751EB043BE89D6734" : {
       "type" : "texture",
@@ -140,9 +140,9 @@
       "width" : 325,
       "height" : 32
     },
-    "62A14F93B5BACB35CE39D8A1C37BFDCB" : {
+    "29EF0CDE3505842434F84F7D9699CF28" : {
       "type" : "texture",
-      "index" : 2,
+      "index" : 5,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -151,8 +151,8 @@
       "url" : {
         "native" : "assets\/70C33F84-63C3-4E47-AEDE-F558EDB68A3E.pdf"
       },
-      "width" : 406,
-      "height" : 14
+      "width" : 277,
+      "height" : 84
     },
     "873AB24E58A7E2A05872606D2976AA5C" : {
       "type" : "texture",
@@ -196,20 +196,6 @@
       "width" : 312,
       "height" : 32
     },
-    "02BE79892802852240A9DC7AE978A8A9" : {
-      "type" : "texture",
-      "index" : 4,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/70C33F84-63C3-4E47-AEDE-F558EDB68A3E.pdf"
-      },
-      "width" : 383,
-      "height" : 217
-    },
     "570A55A35192230F5CB576A08573D6C4" : {
       "type" : "texture",
       "index" : 15,
@@ -224,9 +210,9 @@
       "width" : 1920,
       "height" : 1080
     },
-    "6873298E406ABA2AFABE5B40307273F9" : {
+    "DCF2BC5C895178DDBEA509413DEA47AB" : {
       "type" : "texture",
-      "index" : 3,
+      "index" : 9,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -235,8 +221,22 @@
       "url" : {
         "native" : "assets\/70C33F84-63C3-4E47-AEDE-F558EDB68A3E.pdf"
       },
-      "width" : 262,
-      "height" : 76
+      "width" : 404,
+      "height" : 40
+    },
+    "02BE79892802852240A9DC7AE978A8A9" : {
+      "type" : "texture",
+      "index" : 4,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/70C33F84-63C3-4E47-AEDE-F558EDB68A3E.pdf"
+      },
+      "width" : 383,
+      "height" : 217
     }
   },
   "events" : [
@@ -522,12 +522,12 @@
       ],
       "accessibility" : [
         {
-          "text" : "Experiencia de usuarios",
+          "text" : "Profesionales relacionados al diseño, comunicaciones, investigación y tecnología",
           "targetRectangle" : {
-            "y" : 272.8014831542969,
+            "y" : 680.4586791992188,
             "x" : 1149.030029296875,
-            "width" : 269.172,
-            "height" : 93.09999883174896
+            "width" : 387.6479999999999,
+            "height" : 225.3999953269958
           }
         },
         {
@@ -537,6 +537,60 @@
             "x" : 1143.716430664062,
             "width" : 170.0999999999999,
             "height" : 148
+          }
+        },
+        {
+          "text" : "Cómo la cosa es",
+          "targetRectangle" : {
+            "y" : 538.9994506835938,
+            "x" : 358.2357177734375,
+            "width" : 278.172,
+            "height" : 49
+          }
+        },
+        {
+          "text" : "Cómo debería ser",
+          "targetRectangle" : {
+            "y" : 538.9994506835938,
+            "x" : 1149.030029296875,
+            "width" : 309.7079999999999,
+            "height" : 49
+          }
+        },
+        {
+          "text" : "Experiencia de usuarios",
+          "targetRectangle" : {
+            "y" : 272.8014831542969,
+            "x" : 1149.030029296875,
+            "width" : 269.172,
+            "height" : 93.09999883174896
+          }
+        },
+        {
+          "text" : "Experiencia de clientes",
+          "targetRectangle" : {
+            "y" : 272.8014831542969,
+            "x" : 358.2357177734375,
+            "width" : 404.136,
+            "height" : 49
+          }
+        },
+        {
+          "text" : "Foco en multicanal",
+          "targetRectangle" : {
+            "y" : 402.8770141601562,
+            "x" : 358.2357177734375,
+            "width" : 326.1599999999999,
+            "height" : 49
+          }
+        },
+        {
+          "text" : "Foco en canales digitales",
+          "targetRectangle" : {
+            "y" : 402.8770141601562,
+            "x" : 1149.030029296875,
+            "width" : 283.4639999999999,
+            "height" : 93.09999883174896
           }
         },
         {
@@ -555,60 +609,6 @@
             "x" : 348.8967590332031,
             "width" : 161.568,
             "height" : 148
-          }
-        },
-        {
-          "text" : "Cómo la cosa es",
-          "targetRectangle" : {
-            "y" : 538.9994506835938,
-            "x" : 358.2357177734375,
-            "width" : 278.172,
-            "height" : 49
-          }
-        },
-        {
-          "text" : "Experiencia de clientes",
-          "targetRectangle" : {
-            "y" : 272.8014831542969,
-            "x" : 358.2357177734375,
-            "width" : 404.136,
-            "height" : 49
-          }
-        },
-        {
-          "text" : "Cómo debería ser",
-          "targetRectangle" : {
-            "y" : 538.9994506835938,
-            "x" : 1149.030029296875,
-            "width" : 309.7079999999999,
-            "height" : 49
-          }
-        },
-        {
-          "text" : "Foco en canales digitales",
-          "targetRectangle" : {
-            "y" : 402.8770141601562,
-            "x" : 1149.030029296875,
-            "width" : 283.4639999999999,
-            "height" : 93.09999883174896
-          }
-        },
-        {
-          "text" : "Profesionales relacionados al diseño, comunicaciones, investigación y tecnología",
-          "targetRectangle" : {
-            "y" : 680.4586791992188,
-            "x" : 1149.030029296875,
-            "width" : 387.6479999999999,
-            "height" : 225.3999953269958
-          }
-        },
-        {
-          "text" : "Foco en multicanal",
-          "targetRectangle" : {
-            "y" : 402.8770141601562,
-            "x" : 358.2357177734375,
-            "width" : 326.1599999999999,
-            "height" : 49
           }
         }
       ],
@@ -2570,7 +2570,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "BB760E71C325F1B9901B2B650D9F4343"
+                    "texture" : "DCF2BC5C895178DDBEA509413DEA47AB"
                   }
                 ]
               }

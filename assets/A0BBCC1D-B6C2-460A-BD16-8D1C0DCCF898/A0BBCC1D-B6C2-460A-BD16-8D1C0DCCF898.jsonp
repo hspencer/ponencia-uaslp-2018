@@ -538,6 +538,42 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Objeto de estudio",
+            "targetRectangle" : {
+              "y" : 62.87498116493225,
+              "x" : 65.24996972084045,
+              "width" : 598.01,
+              "height" : 84
+            }
+          },
+          {
+            "text" : "personas",
+            "targetRectangle" : {
+              "y" : 589.0000618696213,
+              "x" : 853.6830012798309,
+              "width" : 230.634,
+              "height" : 64
+            }
+          },
+          {
+            "text" : "niños",
+            "targetRectangle" : {
+              "y" : 781.2760004997253,
+              "x" : 1454.257953643799,
+              "width" : 115.0920000000001,
+              "height" : 55
+            }
+          },
+          {
+            "text" : "discapacidad intelectual",
+            "targetRectangle" : {
+              "y" : 657.2163715362549,
+              "x" : 825.296,
+              "width" : 300.288,
+              "height" : 110
+            }
+          },
+          {
             "text" : "grupos ",
             "targetRectangle" : {
               "y" : 342.0521223545074,
@@ -565,57 +601,12 @@ local_slide( {
             }
           },
           {
-            "text" : "niños",
+            "text" : "migrantes",
             "targetRectangle" : {
-              "y" : 781.2760004997253,
-              "x" : 1454.257953643799,
-              "width" : 115.0920000000001,
+              "y" : 129.8015131950378,
+              "x" : 1335.433628797531,
+              "width" : 217.5799999999999,
               "height" : 55
-            }
-          },
-          {
-            "text" : "Objeto de estudio",
-            "targetRectangle" : {
-              "y" : 62.87498116493225,
-              "x" : 65.24996972084045,
-              "width" : 598.01,
-              "height" : 84
-            }
-          },
-          {
-            "text" : "adulto",
-            "targetRectangle" : {
-              "y" : 485.0000019073486,
-              "x" : 544.4446536922455,
-              "width" : 139.702,
-              "height" : 55
-            }
-          },
-          {
-            "text" : "mayor",
-            "targetRectangle" : {
-              "y" : 540.0000019073486,
-              "x" : 545.9396536922454,
-              "width" : 136.712,
-              "height" : 55
-            }
-          },
-          {
-            "text" : "discapacidad intelectual",
-            "targetRectangle" : {
-              "y" : 657.2163715362549,
-              "x" : 825.296,
-              "width" : 300.288,
-              "height" : 110
-            }
-          },
-          {
-            "text" : "personas",
-            "targetRectangle" : {
-              "y" : 589.0000618696213,
-              "x" : 853.6830012798309,
-              "width" : 230.634,
-              "height" : 64
             }
           },
           {
@@ -655,11 +646,20 @@ local_slide( {
             }
           },
           {
-            "text" : "migrantes",
+            "text" : "adulto",
             "targetRectangle" : {
-              "y" : 129.8015131950378,
-              "x" : 1335.433628797531,
-              "width" : 217.5799999999999,
+              "y" : 485.0000019073486,
+              "x" : 544.4446536922455,
+              "width" : 139.702,
+              "height" : 55
+            }
+          },
+          {
+            "text" : "mayor",
+            "targetRectangle" : {
+              "y" : 540.0000019073486,
+              "x" : 545.9396536922454,
+              "width" : 136.712,
               "height" : 55
             }
           }

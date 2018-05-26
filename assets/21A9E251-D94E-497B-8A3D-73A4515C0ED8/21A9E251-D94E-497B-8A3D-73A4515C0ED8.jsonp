@@ -386,7 +386,7 @@ local_slide( {
           {
             "text" : "¿Para qué diseñamos?",
             "targetRectangle" : {
-              "y" : 93.0770568847658,
+              "y" : 93.07705688476562,
               "x" : 1116.967530608177,
               "width" : 627.1300000000001,
               "height" : 74
@@ -395,7 +395,7 @@ local_slide( {
           {
             "text" : "¿Para quién diseñamos?",
             "targetRectangle" : {
-              "y" : 167.0770568847658,
+              "y" : 167.0770568847656,
               "x" : 1116.967530608177,
               "width" : 677.4740000000002,
               "height" : 107.75
@@ -404,7 +404,7 @@ local_slide( {
           {
             "text" : "¿Cómo diseñamos?",
             "targetRectangle" : {
-              "y" : 274.8270568847658,
+              "y" : 274.8270568847656,
               "x" : 1116.967530608177,
               "width" : 551.9859999999999,
               "height" : 107.75
@@ -413,16 +413,16 @@ local_slide( {
           {
             "text" : "¿Cómo nos relacionamos con otras disciplinas?",
             "targetRectangle" : {
-              "y" : 382.5770568847658,
+              "y" : 382.5770568847656,
               "x" : 1116.967530608177,
               "width" : 734.6379999999999,
-              "height" : 181.7500000000001
+              "height" : 181.75
             }
           },
           {
             "text" : "¿Qué mundo estamos construyendo?",
             "targetRectangle" : {
-              "y" : 564.3270568847659,
+              "y" : 564.3270568847656,
               "x" : 1116.967530608177,
               "width" : 639.2200000000003,
               "height" : 181.75
@@ -1478,7 +1478,7 @@ local_slide( {
                     "scale" : 1,
                     "position" : {
                       "pointX" : 1421.342529296875,
-                      "pointY" : 408.9520568847658
+                      "pointY" : 408.9520568847656
                     },
                     "width" : 718,
                     "sublayerTransform" : [
@@ -1525,7 +1525,7 @@ local_slide( {
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
                         "textXHeight" : 0.04801866251944013,
-                        "textBaseline" : 0.9784961629247595,
+                        "textBaseline" : 0.9784961629247592,
                         "isBackgroundTexture" : true,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -1550,7 +1550,7 @@ local_slide( {
                         "scale" : 1,
                         "position" : {
                           "pointX" : 414.657470703125,
-                          "pointY" : 339.0479431152342
+                          "pointY" : 339.0479431152344
                         },
                         "width" : 718,
                         "sublayerTransform" : [

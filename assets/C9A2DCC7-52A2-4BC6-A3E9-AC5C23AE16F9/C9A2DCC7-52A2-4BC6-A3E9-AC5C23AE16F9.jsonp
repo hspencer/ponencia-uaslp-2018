@@ -1563,21 +1563,21 @@ local_slide( {
             }
           },
           {
-            "text" : "espacio de oportunidades",
-            "targetRectangle" : {
-              "y" : 322.4852151870728,
-              "x" : 721.242616891861,
-              "width" : 602.4550000000002,
-              "height" : 58
-            }
-          },
-          {
             "text" : "espacio de diseño",
             "targetRectangle" : {
               "y" : 746.6872241496999,
               "x" : 1119.223100891111,
               "width" : 263.8650000000036,
               "height" : 116.0000000000078
+            }
+          },
+          {
+            "text" : "espacio de oportunidades",
+            "targetRectangle" : {
+              "y" : 322.4852151870728,
+              "x" : 721.242616891861,
+              "width" : 602.4550000000002,
+              "height" : 58
             }
           },
           {
@@ -4175,29 +4175,11 @@ local_slide( {
             }
           },
           {
-            "text" : "investigación",
+            "text" : "conceptos",
             "targetRectangle" : {
-              "y" : 957.0615229606628,
-              "x" : 224.6283037662506,
-              "width" : 288.5119999999999,
-              "height" : 55
-            }
-          },
-          {
-            "text" : "prototipos",
-            "targetRectangle" : {
-              "y" : 1008.192870616913,
-              "x" : 1564.182309865952,
-              "width" : 230.2760000000001,
-              "height" : 55
-            }
-          },
-          {
-            "text" : "hallazgos",
-            "targetRectangle" : {
-              "y" : 533.3759760856628,
-              "x" : 514.5726940631866,
-              "width" : 201.25,
+              "y" : 428.4491267204285,
+              "x" : 1179.039467573166,
+              "width" : 227.424,
               "height" : 55
             }
           },
@@ -4211,15 +4193,6 @@ local_slide( {
             }
           },
           {
-            "text" : "espacio de oportunidades",
-            "targetRectangle" : {
-              "y" : 322.4852151870728,
-              "x" : 721.242616891861,
-              "width" : 602.4550000000002,
-              "height" : 58
-            }
-          },
-          {
             "text" : "espacio de diseño",
             "targetRectangle" : {
               "y" : 746.6872241496999,
@@ -4229,11 +4202,29 @@ local_slide( {
             }
           },
           {
-            "text" : "conceptos",
+            "text" : "investigación",
             "targetRectangle" : {
-              "y" : 428.4491267204285,
-              "x" : 1179.039467573166,
-              "width" : 227.424,
+              "y" : 957.0615229606628,
+              "x" : 224.6283037662506,
+              "width" : 288.5119999999999,
+              "height" : 55
+            }
+          },
+          {
+            "text" : "espacio de oportunidades",
+            "targetRectangle" : {
+              "y" : 322.4852151870728,
+              "x" : 721.242616891861,
+              "width" : 602.4550000000002,
+              "height" : 58
+            }
+          },
+          {
+            "text" : "hallazgos",
+            "targetRectangle" : {
+              "y" : 533.3759760856628,
+              "x" : 514.5726940631866,
+              "width" : 201.25,
               "height" : 55
             }
           },
@@ -4244,6 +4235,15 @@ local_slide( {
               "x" : 65.24996972084045,
               "width" : 832.1600000000001,
               "height" : 84
+            }
+          },
+          {
+            "text" : "prototipos",
+            "targetRectangle" : {
+              "y" : 1008.192870616913,
+              "x" : 1564.182309865952,
+              "width" : 230.2760000000001,
+              "height" : 55
             }
           }
         ],
@@ -6596,29 +6596,11 @@ local_slide( {
             }
           },
           {
-            "text" : "investigación",
+            "text" : "conceptos",
             "targetRectangle" : {
-              "y" : 957.0615229606628,
-              "x" : 224.6283037662506,
-              "width" : 288.5119999999999,
-              "height" : 55
-            }
-          },
-          {
-            "text" : "prototipos",
-            "targetRectangle" : {
-              "y" : 1008.192870616913,
-              "x" : 1564.182309865952,
-              "width" : 230.2760000000001,
-              "height" : 55
-            }
-          },
-          {
-            "text" : "hallazgos",
-            "targetRectangle" : {
-              "y" : 533.3759760856628,
-              "x" : 514.5726940631866,
-              "width" : 201.25,
+              "y" : 428.4491267204285,
+              "x" : 1179.039467573166,
+              "width" : 227.424,
               "height" : 55
             }
           },
@@ -6632,15 +6614,6 @@ local_slide( {
             }
           },
           {
-            "text" : "espacio de oportunidades",
-            "targetRectangle" : {
-              "y" : 322.4852151870728,
-              "x" : 721.242616891861,
-              "width" : 602.4550000000002,
-              "height" : 58
-            }
-          },
-          {
             "text" : "espacio de diseño",
             "targetRectangle" : {
               "y" : 746.6872241496999,
@@ -6650,11 +6623,29 @@ local_slide( {
             }
           },
           {
-            "text" : "conceptos",
+            "text" : "investigación",
             "targetRectangle" : {
-              "y" : 428.4491267204285,
-              "x" : 1179.039467573166,
-              "width" : 227.424,
+              "y" : 957.0615229606628,
+              "x" : 224.6283037662506,
+              "width" : 288.5119999999999,
+              "height" : 55
+            }
+          },
+          {
+            "text" : "espacio de oportunidades",
+            "targetRectangle" : {
+              "y" : 322.4852151870728,
+              "x" : 721.242616891861,
+              "width" : 602.4550000000002,
+              "height" : 58
+            }
+          },
+          {
+            "text" : "hallazgos",
+            "targetRectangle" : {
+              "y" : 533.3759760856628,
+              "x" : 514.5726940631866,
+              "width" : 201.25,
               "height" : 55
             }
           },
@@ -6665,6 +6656,15 @@ local_slide( {
               "x" : 65.24996972084045,
               "width" : 832.1600000000001,
               "height" : 84
+            }
+          },
+          {
+            "text" : "prototipos",
+            "targetRectangle" : {
+              "y" : 1008.192870616913,
+              "x" : 1564.182309865952,
+              "width" : 230.2760000000001,
+              "height" : 55
             }
           }
         ],
@@ -9053,29 +9053,11 @@ local_slide( {
             }
           },
           {
-            "text" : "investigación",
+            "text" : "conceptos",
             "targetRectangle" : {
-              "y" : 957.0615229606628,
-              "x" : 224.6283037662506,
-              "width" : 288.5119999999999,
-              "height" : 55
-            }
-          },
-          {
-            "text" : "prototipos",
-            "targetRectangle" : {
-              "y" : 1008.192870616913,
-              "x" : 1564.182309865952,
-              "width" : 230.2760000000001,
-              "height" : 55
-            }
-          },
-          {
-            "text" : "hallazgos",
-            "targetRectangle" : {
-              "y" : 533.3759760856628,
-              "x" : 514.5726940631866,
-              "width" : 201.25,
+              "y" : 428.4491267204285,
+              "x" : 1179.039467573166,
+              "width" : 227.424,
               "height" : 55
             }
           },
@@ -9089,15 +9071,6 @@ local_slide( {
             }
           },
           {
-            "text" : "espacio de oportunidades",
-            "targetRectangle" : {
-              "y" : 322.4852151870728,
-              "x" : 721.242616891861,
-              "width" : 602.4550000000002,
-              "height" : 58
-            }
-          },
-          {
             "text" : "espacio de diseño",
             "targetRectangle" : {
               "y" : 746.6872241496999,
@@ -9107,11 +9080,29 @@ local_slide( {
             }
           },
           {
-            "text" : "conceptos",
+            "text" : "investigación",
             "targetRectangle" : {
-              "y" : 428.4491267204285,
-              "x" : 1179.039467573166,
-              "width" : 227.424,
+              "y" : 957.0615229606628,
+              "x" : 224.6283037662506,
+              "width" : 288.5119999999999,
+              "height" : 55
+            }
+          },
+          {
+            "text" : "espacio de oportunidades",
+            "targetRectangle" : {
+              "y" : 322.4852151870728,
+              "x" : 721.242616891861,
+              "width" : 602.4550000000002,
+              "height" : 58
+            }
+          },
+          {
+            "text" : "hallazgos",
+            "targetRectangle" : {
+              "y" : 533.3759760856628,
+              "x" : 514.5726940631866,
+              "width" : 201.25,
               "height" : 55
             }
           },
@@ -9122,6 +9113,15 @@ local_slide( {
               "x" : 65.24996972084045,
               "width" : 832.1600000000001,
               "height" : 84
+            }
+          },
+          {
+            "text" : "prototipos",
+            "targetRectangle" : {
+              "y" : 1008.192870616913,
+              "x" : 1564.182309865952,
+              "width" : 230.2760000000001,
+              "height" : 55
             }
           }
         ],

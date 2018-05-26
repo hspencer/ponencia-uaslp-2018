@@ -140,9 +140,9 @@
       "width" : 354,
       "height" : 354
     },
-    "E67B7F2F44918C3431D8E0245996C834" : {
+    "4A7E17A3715BAB94CE5B52677033BDDA" : {
       "type" : "texture",
-      "index" : 15,
+      "index" : 1,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -151,8 +151,8 @@
       "url" : {
         "native" : "assets\/BF8FBBDD-250B-492E-952C-5BDD30E1C82E.pdf"
       },
-      "width" : 1920,
-      "height" : 1080
+      "width" : 685,
+      "height" : 58
     },
     "333714CE8E53D1AC90EBD47DC9D8A9D1" : {
       "type" : "texture",
@@ -168,9 +168,9 @@
       "width" : 349,
       "height" : 348
     },
-    "4A7E17A3715BAB94CE5B52677033BDDA" : {
+    "A7EE9AC5932A3B2B3A9413677CA0589C" : {
       "type" : "texture",
-      "index" : 1,
+      "index" : 9,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -179,8 +179,8 @@
       "url" : {
         "native" : "assets\/BF8FBBDD-250B-492E-952C-5BDD30E1C82E.pdf"
       },
-      "width" : 685,
-      "height" : 58
+      "width" : 163,
+      "height" : 39
     },
     "440F740859DA01FFCBB12CF727496550" : {
       "type" : "texture",
@@ -196,20 +196,6 @@
       "width" : 1920,
       "height" : 1080
     },
-    "A7EE9AC5932A3B2B3A9413677CA0589C" : {
-      "type" : "texture",
-      "index" : 9,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/BF8FBBDD-250B-492E-952C-5BDD30E1C82E.pdf"
-      },
-      "width" : 163,
-      "height" : 39
-    },
     "778BA2329657488CBAEE2ADA9C5282A6" : {
       "type" : "texture",
       "index" : 12,
@@ -223,6 +209,20 @@
       },
       "width" : 157,
       "height" : 45
+    },
+    "F395E636690F668F97DB067BBB89F4E7" : {
+      "type" : "texture",
+      "index" : 15,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/BF8FBBDD-250B-492E-952C-5BDD30E1C82E.pdf"
+      },
+      "width" : 1920,
+      "height" : 1080
     }
   },
   "events" : [
@@ -487,7 +487,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "E67B7F2F44918C3431D8E0245996C834"
+                    "texture" : "F395E636690F668F97DB067BBB89F4E7"
                   }
                 ]
               }
@@ -508,6 +508,15 @@
       ],
       "accessibility" : [
         {
+          "text" : "Taller 2",
+          "targetRectangle" : {
+            "y" : 759.6558833122253,
+            "x" : 1097.464045286179,
+            "width" : 157.412,
+            "height" : 55
+          }
+        },
+        {
           "text" : "Shape 269",
           "targetRectangle" : {
             "y" : 359.3882751464844,
@@ -517,12 +526,12 @@
           }
         },
         {
-          "text" : "Shape 271",
+          "text" : "Taller 1",
           "targetRectangle" : {
-            "y" : 375.6172180175781,
-            "x" : 1436.132202148438,
-            "width" : 344.7560424804688,
-            "height" : 344.7562255859375
+            "y" : 759.6558833122253,
+            "x" : 666.6189551353455,
+            "width" : 154.422,
+            "height" : 55
           }
         },
         {
@@ -544,12 +553,12 @@
           }
         },
         {
-          "text" : "Taller 3",
+          "text" : "Shape 271",
           "targetRectangle" : {
-            "y" : 759.6558833122253,
-            "x" : 1530.816130638123,
-            "width" : 155.3879999999999,
-            "height" : 55
+            "y" : 375.6172180175781,
+            "x" : 1436.132202148438,
+            "width" : 344.7560424804688,
+            "height" : 344.7562255859375
           }
         },
         {
@@ -562,30 +571,21 @@
           }
         },
         {
-          "text" : "Taller 2",
-          "targetRectangle" : {
-            "y" : 759.6558833122253,
-            "x" : 1097.464045286179,
-            "width" : 157.412,
-            "height" : 55
-          }
-        },
-        {
-          "text" : "Taller 1",
-          "targetRectangle" : {
-            "y" : 759.6558833122253,
-            "x" : 666.6189551353455,
-            "width" : 154.422,
-            "height" : 55
-          }
-        },
-        {
           "text" : "Talleres de Codiseño",
           "targetRectangle" : {
             "y" : 66.19560647010803,
             "x" : 65.24996972084045,
             "width" : 683.6200000000001,
             "height" : 84
+          }
+        },
+        {
+          "text" : "Taller 3",
+          "targetRectangle" : {
+            "y" : 759.6558833122253,
+            "x" : 1530.816130638123,
+            "width" : 155.3879999999999,
+            "height" : 55
           }
         }
       ],

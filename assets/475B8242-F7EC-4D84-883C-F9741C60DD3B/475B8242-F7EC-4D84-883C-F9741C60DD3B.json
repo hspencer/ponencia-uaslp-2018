@@ -340,24 +340,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "Título de la partitura",
-          "targetRectangle" : {
-            "y" : 27.4417724609375,
-            "x" : 316.6333961486816,
-            "width" : 266.5390001426042,
-            "height" : 35
-          }
-        },
-        {
-          "text" : "13 meta partitura.png",
-          "targetRectangle" : {
-            "y" : 124.9166641235352,
-            "x" : 292.9040222167969,
-            "width" : 1370.5625,
-            "height" : 767.125
-          }
-        },
-        {
           "text" : "Compás, sección o página",
           "targetRectangle" : {
             "y" : 837.1412353515625,
@@ -372,6 +354,24 @@
             "y" : 865.141235768795,
             "x" : 732.6802673339844,
             "width" : 303.1370001426042,
+            "height" : 35
+          }
+        },
+        {
+          "text" : "Título de la partitura",
+          "targetRectangle" : {
+            "y" : 27.4417724609375,
+            "x" : 316.6333961486816,
+            "width" : 266.5390001426042,
+            "height" : 35
+          }
+        },
+        {
+          "text" : "Encabezado",
+          "targetRectangle" : {
+            "y" : 932.4063110351562,
+            "x" : 358.9011726379395,
+            "width" : 160.60200006482,
             "height" : 35
           }
         },
@@ -403,12 +403,12 @@
           }
         },
         {
-          "text" : "Encabezado",
+          "text" : "13 meta partitura.png",
           "targetRectangle" : {
-            "y" : 932.4063110351562,
-            "x" : 358.9011726379395,
-            "width" : 160.60200006482,
-            "height" : 35
+            "y" : 124.9166641235352,
+            "x" : 292.9040222167969,
+            "width" : 1370.5625,
+            "height" : 767.125
           }
         }
       ],

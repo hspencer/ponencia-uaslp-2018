@@ -356,21 +356,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Plano presentado por los hermanos Wright para obtener la patente de su invento.",
+            "targetRectangle" : {
+              "y" : 930.3982566595078,
+              "x" : 1407.279419064522,
+              "width" : 488.9099999999999,
+              "height" : 123
+            }
+          },
+          {
             "text" : "pasted-image.png",
             "targetRectangle" : {
               "y" : 3.40008544921875,
               "x" : 6.570048332214355,
               "width" : 1384.178588867188,
               "height" : 1073.199829101562
-            }
-          },
-          {
-            "text" : "Plano presentado por los hermanos Wright para obtener la patente de su invento.",
-            "targetRectangle" : {
-              "y" : 930.3982664251331,
-              "x" : 1407.279419064522,
-              "width" : 488.9099999999999,
-              "height" : 122.9999999999999
             }
           }
         ],
@@ -865,7 +865,7 @@ local_slide( {
                     "scale" : 1,
                     "position" : {
                       "pointX" : 1647.591918945312,
-                      "pointY" : 986.2107663059238
+                      "pointY" : 986.2107565402985
                     },
                     "width" : 484,
                     "sublayerTransform" : [
@@ -912,7 +912,7 @@ local_slide( {
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
                         "textXHeight" : 0.1299130434782609,
-                        "textBaseline" : 0.9253769303612117,
+                        "textBaseline" : 0.9253768454427305,
                         "isBackgroundTexture" : true,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -937,7 +937,7 @@ local_slide( {
                         "scale" : 1,
                         "position" : {
                           "pointX" : 243.4080810546875,
-                          "pointY" : 64.78923369407619
+                          "pointY" : 64.78924345970154
                         },
                         "width" : 484,
                         "sublayerTransform" : [

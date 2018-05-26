@@ -536,20 +536,20 @@
       ],
       "accessibility" : [
         {
+          "text" : "discapacidad intelectual",
+          "targetRectangle" : {
+            "y" : 657.2163715362549,
+            "x" : 825.296,
+            "width" : 300.288,
+            "height" : 110
+          }
+        },
+        {
           "text" : "Accesibilidad cognitiva",
           "targetRectangle" : {
             "y" : 958.9013659954071,
             "x" : 717.1270077228546,
             "width" : 503.7460000000001,
-            "height" : 55
-          }
-        },
-        {
-          "text" : "locomoción",
-          "targetRectangle" : {
-            "y" : 487.2874140739441,
-            "x" : 255.4371540546417,
-            "width" : 254.886,
             "height" : 55
           }
         },
@@ -608,21 +608,21 @@
           }
         },
         {
+          "text" : "locomoción",
+          "targetRectangle" : {
+            "y" : 487.2874140739441,
+            "x" : 255.4371540546417,
+            "width" : 254.886,
+            "height" : 55
+          }
+        },
+        {
           "text" : "personas",
           "targetRectangle" : {
             "y" : 589.0000618696213,
             "x" : 853.6830012798309,
             "width" : 230.634,
             "height" : 64
-          }
-        },
-        {
-          "text" : "discapacidad intelectual",
-          "targetRectangle" : {
-            "y" : 657.2163715362549,
-            "x" : 825.296,
-            "width" : 300.288,
-            "height" : 110
           }
         }
       ],

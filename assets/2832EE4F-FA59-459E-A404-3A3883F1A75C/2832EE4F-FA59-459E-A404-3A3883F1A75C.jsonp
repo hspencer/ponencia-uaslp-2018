@@ -356,6 +356,15 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "pasted-image.pdf",
+            "targetRectangle" : {
+              "y" : 506.8790588378906,
+              "x" : 476.1894950866699,
+              "width" : 135.5498046875,
+              "height" : 128.8325805664062
+            }
+          },
+          {
             "text" : "Primer momento",
             "targetRectangle" : {
               "y" : 89.84375,
@@ -380,15 +389,6 @@ local_slide( {
               "x" : 477.210277557373,
               "width" : 133.5082397460938,
               "height" : 96.93250274658203
-            }
-          },
-          {
-            "text" : "pasted-image.pdf",
-            "targetRectangle" : {
-              "y" : 506.8790588378906,
-              "x" : 476.1894950866699,
-              "width" : 135.5498046875,
-              "height" : 128.8325805664062
             }
           }
         ],

@@ -409,20 +409,20 @@ local_slide( {
         "automaticPlay" : false,
         "hyperlinks" : [
           {
-            "url" : "mailto:vanessa.vega@pucv.cl",
-            "targetRectangle" : {
-              "y" : 889.1447756290436,
-              "x" : 325.9609013671875,
-              "width" : 434.826,
-              "height" : 50
-            }
-          },
-          {
             "url" : "mailto:hspencer@ead.cl",
             "targetRectangle" : {
               "y" : 889.1447756290436,
               "x" : 1213.216930908203,
               "width" : 337.5119999999997,
+              "height" : 50
+            }
+          },
+          {
+            "url" : "mailto:vanessa.vega@pucv.cl",
+            "targetRectangle" : {
+              "y" : 889.1447756290436,
+              "x" : 325.9609013671875,
+              "width" : 434.826,
               "height" : 50
             }
           }
@@ -435,42 +435,6 @@ local_slide( {
               "x" : 1209.363525390625,
               "width" : 345.2328186035156,
               "height" : 345.2328186035156
-            }
-          },
-          {
-            "text" : "Dra. Vanessa Vega Córdova",
-            "targetRectangle" : {
-              "y" : 639.1447756290436,
-              "x" : 276.3169013671875,
-              "width" : 534.114,
-              "height" : 50
-            }
-          },
-          {
-            "text" : "Directora",
-            "targetRectangle" : {
-              "y" : 689.1447756290436,
-              "x" : 449.4199013671875,
-              "width" : 187.908,
-              "height" : 50
-            }
-          },
-          {
-            "text" : "Escuela de Pedagogía",
-            "targetRectangle" : {
-              "y" : 739.1447756290436,
-              "x" : 328.1659013671875,
-              "width" : 430.4159999999999,
-              "height" : 50
-            }
-          },
-          {
-            "text" : "vanessa.vega@pucv.cl",
-            "targetRectangle" : {
-              "y" : 889.1447756290436,
-              "x" : 325.9609013671875,
-              "width" : 434.826,
-              "height" : 50
             }
           },
           {
@@ -515,6 +479,42 @@ local_slide( {
               "y" : 889.1447756290436,
               "x" : 1213.216930908203,
               "width" : 337.5119999999997,
+              "height" : 50
+            }
+          },
+          {
+            "text" : "Dra. Vanessa Vega Córdova",
+            "targetRectangle" : {
+              "y" : 639.1447756290436,
+              "x" : 276.3169013671875,
+              "width" : 534.114,
+              "height" : 50
+            }
+          },
+          {
+            "text" : "Directora",
+            "targetRectangle" : {
+              "y" : 689.1447756290436,
+              "x" : 449.4199013671875,
+              "width" : 187.908,
+              "height" : 50
+            }
+          },
+          {
+            "text" : "Escuela de Pedagogía",
+            "targetRectangle" : {
+              "y" : 739.1447756290436,
+              "x" : 328.1659013671875,
+              "width" : 430.4159999999999,
+              "height" : 50
+            }
+          },
+          {
+            "text" : "vanessa.vega@pucv.cl",
+            "targetRectangle" : {
+              "y" : 889.1447756290436,
+              "x" : 325.9609013671875,
+              "width" : 434.826,
               "height" : 50
             }
           }

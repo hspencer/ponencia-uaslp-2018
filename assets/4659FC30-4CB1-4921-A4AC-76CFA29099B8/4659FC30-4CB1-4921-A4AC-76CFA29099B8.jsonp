@@ -16,7 +16,7 @@ local_slide( {
         "width" : 226,
         "height" : 97
       },
-      "570A55A35192230F5CB576A08573D6C4" : {
+      "1B67C077A155A09B6FB2B6475E1FD663" : {
         "type" : "texture",
         "index" : 1,
         "assetRequest" : {
@@ -100,20 +100,6 @@ local_slide( {
         "width" : 438,
         "height" : 438
       },
-      "AAAF8522803ED11057CA62F6993CB9E8" : {
-        "type" : "texture",
-        "index" : 5,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/4659FC30-4CB1-4921-A4AC-76CFA29099B8.pdf"
-        },
-        "width" : 336,
-        "height" : 97
-      },
       "587CB49D2DE661692AADCA68BAF06F82" : {
         "type" : "texture",
         "index" : 8,
@@ -127,6 +113,20 @@ local_slide( {
         },
         "width" : 1920,
         "height" : 1080
+      },
+      "AAAF8522803ED11057CA62F6993CB9E8" : {
+        "type" : "texture",
+        "index" : 5,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/4659FC30-4CB1-4921-A4AC-76CFA29099B8.pdf"
+        },
+        "width" : 336,
+        "height" : 97
       }
     },
     "events" : [
@@ -421,24 +421,6 @@ local_slide( {
             }
           },
           {
-            "text" : "Sólo los",
-            "targetRectangle" : {
-              "y" : 472.5190527439117,
-              "x" : 589.9540405273438,
-              "width" : 186.500000083819,
-              "height" : 68
-            }
-          },
-          {
-            "text" : "consumidores",
-            "targetRectangle" : {
-              "y" : 526.9190535545349,
-              "x" : 589.9540405273438,
-              "width" : 333.6500001341105,
-              "height" : 68
-            }
-          },
-          {
             "text" : "Todos los",
             "targetRectangle" : {
               "y" : 472.5190527439117,
@@ -463,6 +445,24 @@ local_slide( {
               "x" : 900.2126705080867,
               "width" : 153.4680000482798,
               "height" : 148
+            }
+          },
+          {
+            "text" : "Sólo los",
+            "targetRectangle" : {
+              "y" : 472.5190527439117,
+              "x" : 589.9540405273438,
+              "width" : 186.500000083819,
+              "height" : 68
+            }
+          },
+          {
+            "text" : "consumidores",
+            "targetRectangle" : {
+              "y" : 526.9190535545349,
+              "x" : 589.9540405273438,
+              "width" : 333.6500001341105,
+              "height" : 68
             }
           }
         ],
@@ -884,7 +884,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "570A55A35192230F5CB576A08573D6C4"
+                      "texture" : "1B67C077A155A09B6FB2B6475E1FD663"
                     }
                   ]
                 }

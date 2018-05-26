@@ -393,33 +393,6 @@ local_slide( {
             }
           },
           {
-            "text" : "Accesibilidad Cognitiva",
-            "targetRectangle" : {
-              "y" : 144.2008059024811,
-              "x" : 101.1897280216217,
-              "width" : 1385.964,
-              "height" : 148
-            }
-          },
-          {
-            "text" : "Investigación Asociativa ",
-            "targetRectangle" : {
-              "y" : 368.3007999658585,
-              "x" : 101.1897280216217,
-              "width" : 941.556,
-              "height" : 101
-            }
-          },
-          {
-            "text" : "Diseño + Educación + Ingeniería",
-            "targetRectangle" : {
-              "y" : 469.3007999658585,
-              "x" : 101.1897280216217,
-              "width" : 909.6,
-              "height" : 72
-            }
-          },
-          {
             "text" : "pasted-image.tiff",
             "targetRectangle" : {
               "y" : 5.707397937774658,
@@ -462,6 +435,33 @@ local_slide( {
               "x" : 1062.989135980606,
               "width" : 758.4360000000001,
               "height" : 50
+            }
+          },
+          {
+            "text" : "Accesibilidad Cognitiva",
+            "targetRectangle" : {
+              "y" : 144.2008059024811,
+              "x" : 101.1897280216217,
+              "width" : 1385.964,
+              "height" : 148
+            }
+          },
+          {
+            "text" : "Investigación Asociativa ",
+            "targetRectangle" : {
+              "y" : 368.3007999658585,
+              "x" : 101.1897280216217,
+              "width" : 941.556,
+              "height" : 101
+            }
+          },
+          {
+            "text" : "Diseño + Educación + Ingeniería",
+            "targetRectangle" : {
+              "y" : 469.3007999658585,
+              "x" : 101.1897280216217,
+              "width" : 909.6,
+              "height" : 72
             }
           }
         ],

@@ -564,6 +564,24 @@
       ],
       "accessibility" : [
         {
+          "text" : "inputs",
+          "targetRectangle" : {
+            "y" : 623.7094118595123,
+            "x" : 1170.41789453125,
+            "width" : 130.5479999999998,
+            "height" : 55
+          }
+        },
+        {
+          "text" : "modelo de valor",
+          "targetRectangle" : {
+            "y" : 258.426605463028,
+            "x" : 254.6883215332031,
+            "width" : 212.12,
+            "height" : 96
+          }
+        },
+        {
           "text" : "modelo de datos",
           "targetRectangle" : {
             "y" : 845.7794191837311,
@@ -609,15 +627,6 @@
           }
         },
         {
-          "text" : "Desafío del producto",
-          "targetRectangle" : {
-            "y" : 62.87498116493225,
-            "x" : 65.24996972084045,
-            "width" : 693.6999999999998,
-            "height" : 84
-          }
-        },
-        {
           "text" : "outputs",
           "targetRectangle" : {
             "y" : 525.5844423770905,
@@ -627,21 +636,12 @@
           }
         },
         {
-          "text" : "inputs",
+          "text" : "Desafío del producto",
           "targetRectangle" : {
-            "y" : 623.7094118595123,
-            "x" : 1170.41789453125,
-            "width" : 130.5479999999998,
-            "height" : 55
-          }
-        },
-        {
-          "text" : "modelo de valor",
-          "targetRectangle" : {
-            "y" : 258.426605463028,
-            "x" : 254.6883215332031,
-            "width" : 212.12,
-            "height" : 96
+            "y" : 62.87498116493225,
+            "x" : 65.24996972084045,
+            "width" : 693.6999999999998,
+            "height" : 84
           }
         }
       ],

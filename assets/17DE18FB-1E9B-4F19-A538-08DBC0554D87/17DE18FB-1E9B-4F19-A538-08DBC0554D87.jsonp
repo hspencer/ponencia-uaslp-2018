@@ -4,7 +4,7 @@ local_slide( {
     "assets" : {
       "7B0EE184C354AF42019A8B38525B5D85" : {
         "type" : "texture",
-        "index" : 5,
+        "index" : 6,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -18,7 +18,7 @@ local_slide( {
       },
       "40C505311E0D7FF3A59B48BC40AF1F11" : {
         "type" : "texture",
-        "index" : 6,
+        "index" : 7,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -43,6 +43,20 @@ local_slide( {
         },
         "width" : 622,
         "height" : 57
+      },
+      "3483D09474744A987EFB3DF4F34B3BBA" : {
+        "type" : "texture",
+        "index" : 2,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/17DE18FB-1E9B-4F19-A538-08DBC0554D87.pdf"
+        },
+        "width" : 1556,
+        "height" : 329
       },
       "5BA6DF7ACEF516F7DAB78587CF30CE20" : {
         "type" : "texture",
@@ -88,7 +102,7 @@ local_slide( {
       },
       "C7F0D8B2EB4B92DC12E3CACAF0AEE82C" : {
         "type" : "texture",
-        "index" : 2,
+        "index" : 5,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -1778,7 +1792,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "C7F0D8B2EB4B92DC12E3CACAF0AEE82C"
+                      "texture" : "3483D09474744A987EFB3DF4F34B3BBA"
                     },
                     {
                       "animations" : [
@@ -2326,15 +2340,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Problema",
-            "targetRectangle" : {
-              "y" : 62.87498116493225,
-              "x" : 65.24996972084045,
-              "width" : 313.8100000000001,
-              "height" : 84
-            }
-          },
-          {
             "text" : "“La voz de las personas con discapacidad queda silenciada por el discurso omnipresente de los expertos, hasta el punto de que, la historia de la discapacidad no es propiamente la historia de las personas con discapacidad, sino la de las representaciones que elaboramos de ella” ",
             "targetRectangle" : {
               "y" : 201.4307100772858,
@@ -2350,6 +2355,15 @@ local_slide( {
               "x" : 1159.649509038925,
               "width" : 627.1600000000001,
               "height" : 68
+            }
+          },
+          {
+            "text" : "Problema",
+            "targetRectangle" : {
+              "y" : 62.87498116493225,
+              "x" : 65.24996972084045,
+              "width" : 313.8100000000001,
+              "height" : 84
             }
           }
         ],
@@ -3395,15 +3409,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Problema",
-            "targetRectangle" : {
-              "y" : 62.87498116493225,
-              "x" : 65.24996972084045,
-              "width" : 313.8100000000001,
-              "height" : 84
-            }
-          },
-          {
             "text" : "“La voz de las personas con discapacidad queda silenciada por el discurso omnipresente de los expertos, hasta el punto de que, la historia de la discapacidad no es propiamente la historia de las personas con discapacidad, sino la de las representaciones que elaboramos de ella” ",
             "targetRectangle" : {
               "y" : 201.4307100772858,
@@ -3428,6 +3433,15 @@ local_slide( {
               "x" : 188.2674133181572,
               "width" : 1605.747,
               "height" : 204
+            }
+          },
+          {
+            "text" : "Problema",
+            "targetRectangle" : {
+              "y" : 62.87498116493225,
+              "x" : 65.24996972084045,
+              "width" : 313.8100000000001,
+              "height" : 84
             }
           }
         ],

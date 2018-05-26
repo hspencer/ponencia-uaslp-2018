@@ -42,20 +42,6 @@
       "width" : 531,
       "height" : 438
     },
-    "6DB386DBA79D24A1EDC596588037241C" : {
-      "type" : "texture",
-      "index" : 13,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/F941A1A2-2011-49EC-8775-4E9D602644F3.pdf"
-      },
-      "width" : 1920,
-      "height" : 1080
-    },
     "14A0ED35D3BAD1F4ECF2718FC4380F3A" : {
       "type" : "texture",
       "index" : 10,
@@ -153,6 +139,20 @@
       },
       "width" : 218,
       "height" : 202
+    },
+    "1ED57945360712753C3CCD474B6BB7FC" : {
+      "type" : "texture",
+      "index" : 13,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/F941A1A2-2011-49EC-8775-4E9D602644F3.pdf"
+      },
+      "width" : 1920,
+      "height" : 1080
     },
     "C09314E781EA89ADC3CB9391D26F72BB" : {
       "type" : "texture",
@@ -458,45 +458,18 @@
         {
           "text" : "pasted-image.pdf",
           "targetRectangle" : {
-            "y" : 689.0623779296875,
-            "x" : 431.3684692382812,
-            "width" : 214.875,
-            "height" : 156.0010726245091
+            "y" : 647.5310668945312,
+            "x" : 822.988037109375,
+            "width" : 251.5270080566406,
+            "height" : 239.0625
           }
         },
         {
-          "text" : "espacio del diálogo",
+          "text" : "espacio del usuario",
           "targetRectangle" : {
-            "y" : 425.9061598777771,
-            "x" : 789.3265916347503,
-            "width" : 318.85,
-            "height" : 42
-          }
-        },
-        {
-          "text" : "(interfaz)",
-          "targetRectangle" : {
-            "y" : 467.9061598777771,
-            "x" : 877.5790916347504,
-            "width" : 142.345,
-            "height" : 42
-          }
-        },
-        {
-          "text" : "espacio del sistema",
-          "targetRectangle" : {
-            "y" : 425.9061598777771,
-            "x" : 1239.064989233017,
-            "width" : 318.4650000000001,
-            "height" : 42
-          }
-        },
-        {
-          "text" : "(software)",
-          "targetRectangle" : {
-            "y" : 467.9061598777771,
-            "x" : 1316.904989233017,
-            "width" : 162.7850000000001,
+            "y" : 425.9061577320099,
+            "x" : 372.5700047016144,
+            "width" : 312.2350000000001,
             "height" : 42
           }
         },
@@ -519,21 +492,48 @@
           }
         },
         {
-          "text" : "espacio del usuario",
+          "text" : "pasted-image.pdf",
           "targetRectangle" : {
-            "y" : 425.9061577320099,
-            "x" : 372.5700047016144,
-            "width" : 312.2350000000001,
+            "y" : 689.0623779296875,
+            "x" : 431.3684692382812,
+            "width" : 214.875,
+            "height" : 156.0010726245091
+          }
+        },
+        {
+          "text" : "espacio del sistema",
+          "targetRectangle" : {
+            "y" : 425.9061598777771,
+            "x" : 1239.064989233017,
+            "width" : 318.4650000000001,
             "height" : 42
           }
         },
         {
-          "text" : "pasted-image.pdf",
+          "text" : "(software)",
           "targetRectangle" : {
-            "y" : 647.5310668945312,
-            "x" : 822.988037109375,
-            "width" : 251.5270080566406,
-            "height" : 239.0625
+            "y" : 467.9061598777771,
+            "x" : 1316.904989233017,
+            "width" : 162.7850000000001,
+            "height" : 42
+          }
+        },
+        {
+          "text" : "espacio del diálogo",
+          "targetRectangle" : {
+            "y" : 425.9061598777771,
+            "x" : 789.3265916347503,
+            "width" : 318.85,
+            "height" : 42
+          }
+        },
+        {
+          "text" : "(interfaz)",
+          "targetRectangle" : {
+            "y" : 467.9061598777771,
+            "x" : 877.5790916347504,
+            "width" : 142.345,
+            "height" : 42
           }
         }
       ],
@@ -3283,7 +3283,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "6DB386DBA79D24A1EDC596588037241C"
+                    "texture" : "1ED57945360712753C3CCD474B6BB7FC"
                   },
                   {
                     "animations" : [
@@ -3387,45 +3387,18 @@
         {
           "text" : "pasted-image.pdf",
           "targetRectangle" : {
-            "y" : 689.0623779296875,
-            "x" : 431.3684692382812,
-            "width" : 214.875,
-            "height" : 156.0010726245091
+            "y" : 647.5310668945312,
+            "x" : 822.988037109375,
+            "width" : 251.5270080566406,
+            "height" : 239.0625
           }
         },
         {
-          "text" : "espacio del diálogo",
+          "text" : "espacio del usuario",
           "targetRectangle" : {
-            "y" : 425.9061598777771,
-            "x" : 789.3265916347503,
-            "width" : 318.85,
-            "height" : 42
-          }
-        },
-        {
-          "text" : "(interfaz)",
-          "targetRectangle" : {
-            "y" : 467.9061598777771,
-            "x" : 877.5790916347504,
-            "width" : 142.345,
-            "height" : 42
-          }
-        },
-        {
-          "text" : "espacio del sistema",
-          "targetRectangle" : {
-            "y" : 425.9061598777771,
-            "x" : 1239.064989233017,
-            "width" : 318.4650000000001,
-            "height" : 42
-          }
-        },
-        {
-          "text" : "(software)",
-          "targetRectangle" : {
-            "y" : 467.9061598777771,
-            "x" : 1316.904989233017,
-            "width" : 162.7850000000001,
+            "y" : 425.9061577320099,
+            "x" : 372.5700047016144,
+            "width" : 312.2350000000001,
             "height" : 42
           }
         },
@@ -3448,21 +3421,48 @@
           }
         },
         {
-          "text" : "espacio del usuario",
+          "text" : "pasted-image.pdf",
           "targetRectangle" : {
-            "y" : 425.9061577320099,
-            "x" : 372.5700047016144,
-            "width" : 312.2350000000001,
+            "y" : 689.0623779296875,
+            "x" : 431.3684692382812,
+            "width" : 214.875,
+            "height" : 156.0010726245091
+          }
+        },
+        {
+          "text" : "espacio del sistema",
+          "targetRectangle" : {
+            "y" : 425.9061598777771,
+            "x" : 1239.064989233017,
+            "width" : 318.4650000000001,
             "height" : 42
           }
         },
         {
-          "text" : "pasted-image.pdf",
+          "text" : "(software)",
           "targetRectangle" : {
-            "y" : 647.5310668945312,
-            "x" : 822.988037109375,
-            "width" : 251.5270080566406,
-            "height" : 239.0625
+            "y" : 467.9061598777771,
+            "x" : 1316.904989233017,
+            "width" : 162.7850000000001,
+            "height" : 42
+          }
+        },
+        {
+          "text" : "espacio del diálogo",
+          "targetRectangle" : {
+            "y" : 425.9061598777771,
+            "x" : 789.3265916347503,
+            "width" : 318.85,
+            "height" : 42
+          }
+        },
+        {
+          "text" : "(interfaz)",
+          "targetRectangle" : {
+            "y" : 467.9061598777771,
+            "x" : 877.5790916347504,
+            "width" : 142.345,
+            "height" : 42
           }
         }
       ],
