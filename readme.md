@@ -6,7 +6,7 @@ Ponencia presentada el 25 de mayo de 2018 en el Aula Magna de la Facultad del H�
 - Dra. Vanessa Vega Córdova
 - MDes. Herbert Spencer González
 
-**[→ Ver Presentación](https://hspencer.github.io/ponencia-uaslp-2018)** o descargar [pdf](Ponencia Accesibilidad Cognitiva.pdf)
+**[→ Ver Presentación](https://hspencer.github.io/ponencia-uaslp-2018)** o descargar [pdf](https://github.com/hspencer/ponencia-uaslp-2018/Ponencia Accesibilidad Cognitiva.pdf)
 
 **Repositorios Relacionados**
 
